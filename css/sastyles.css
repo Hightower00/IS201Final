@@ -1,0 +1,18 @@
+.title{
+    color: brown;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.Fav{
+    color: brown;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    background-color: antiquewhite;
+}
